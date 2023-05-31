@@ -6,7 +6,7 @@ Input file in AWS S3 bucket was imported: "https://2u-data-curriculum-team.s3.am
 SQL used to determine:
 * The average price for a four-bedroom house sold for each year, rounded to two decimal places.
 * The average price of a home for each year it was built that has three bedrooms and three bathrooms.
-* The average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is gat least 2,000 square feet.
+* The average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is at least 2,000 square feet.
 * The "view" rating for homes costing more than or equal to $350,000.
 
 Three methods were timed and compared for the final query ("view" rating query for homes $350k+):
